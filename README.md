@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=548DBF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Gasperi+Gawadryn;I'm+23+years+old;I+am+from+Itajaí,+SC;I+study+Internet+Systems+at+UNIVALI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFB304&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Gasperi+Gawadryn;I'm+23+years+old;I+am+from+Itajaí,+SC;I+study+Internet+Systems+at+UNIVALI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielgasperig&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgasperig&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielgasperig&show_icons=true&count_private=true&hide_border=true&title_color=548DBF&icon_color=BFB304&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgasperig&layout=compact&hide_border=true&title_color=548DBF&text_color=548DBF&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -35,4 +35,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=548DBF&height=120&section=footer"/>
