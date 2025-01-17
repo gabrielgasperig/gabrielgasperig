@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=548DBF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFB304&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Gasperi+Gawadryn;I'm+23+years+old;I+am+from+Itajaí,+SC;I+study+Internet+Systems+at+UNIVALI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFB304&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Gabriel+Gasperi!;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielgasperig&show_icons=true&count_private=true&hide_border=true&title_color=548DBF&icon_color=BFB304&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
@@ -8,18 +8,18 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielgasperig/gabrielgasperig/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,vscode,github,figma,godot,git,docker,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,vscode,github,figma,godot,docker,mysql,postgresql" />
 </div>
 
 <br><br>
