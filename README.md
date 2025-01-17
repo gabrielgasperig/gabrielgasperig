@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielgasperig/gabrielgasperig/output/github-contribution-grid-snake.svg" />
   <br/><br/>
@@ -30,7 +30,7 @@
 
 <div align="center">
 <br>
-  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="centre"><b>Contagem de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielgasperig}/count.svg" /></p> 
 <br>
 </div>
