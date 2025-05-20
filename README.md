@@ -1,7 +1,7 @@
 
 
 
-![GitHub 3D Contribution](https://raw.githubusercontent.com/gabrielgasperiu/github-profile-3d-contrib/main/profile-night-rainbow.svg)
+![GitHub 3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
 
