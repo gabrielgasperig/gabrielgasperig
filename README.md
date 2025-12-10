@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielgasperig&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gabrielgasperig&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielgasperig&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf" alt="Gabriel Stats" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgasperig&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf" alt="Top Languages" />
 </div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielgasperig/gabrielgasperig/output/github-contribution-grid-snake.svg" />
-  <br/>
+  <br>
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br>
 
 <div align="center" >
   <a href="https://skillicons.dev">
